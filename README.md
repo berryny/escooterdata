@@ -3,7 +3,7 @@
 ## 311 Service Requests from 2010 to PresentSocial Services
 ### Data Provided by 311, DoITT
 
-Parsing The Bronx e-scooter 311 complaints to understand how best to improve the project's outcome by addressing community members concerns.
+Parsing The Bronx e-scooter 311 complaints from 2021 - present to understand how best to improve the project's outcome by addressing community members concerns.
 
 Learn more about the pilot project:
 
