@@ -12,12 +12,20 @@ Learn more about the pilot project:
 - [Shared E-Scooter Pilot](https://nycdotscootershare.info/home)
 - [Shared E-Scooter Survey](https://nycdotscootershare.info/survey)
 - [Suggest Scooter Parking](https://nycdotprojects.info/project-feedback-map/suggest-scooter-parking)
+- [Frequently Asked Questions](https://nycdotscootershare.info/faq)
 - [Shared E-Scooter Pilot Final Report](https://www.nyc.gov/html/dot/downloads/pdf/east-bronx-shared-e-scooter-pilot-report.pdf)
+
+### DOT Contact
+
+- Email: scooter.share@dot.nyc.gov
+- Call: NYC DOT Bronx Borough Commissioner – (212) 748-6680
 
 ### Libraries Used
 
-- [Matplotlib](https://matplotlib.org/)
 - [pandas](https://pandas.pydata.org/) 
+- [plotly](https://plotly.com/python/getting-started/)
+  - [Plotly Express in Python](https://plotly.com/python/plotly-express/)
+- [Matplotlib](https://matplotlib.org/)
 
 ### Troubleshooting
 
