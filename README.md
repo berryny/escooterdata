@@ -12,6 +12,7 @@ Learn more about the pilot project:
 - [Shared E-Scooter Pilot](https://nycdotscootershare.info/home)
 - [Shared E-Scooter Survey](https://nycdotscootershare.info/survey)
 - [Suggest Scooter Parking](https://nycdotprojects.info/project-feedback-map/suggest-scooter-parking)
+- [Shared E-Scooter Pilot Final Report](https://www.nyc.gov/html/dot/downloads/pdf/east-bronx-shared-e-scooter-pilot-report.pdf)
 
 ### Libraries Used
 
