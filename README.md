@@ -25,6 +25,8 @@ Learn more about the pilot project:
 - [pandas](https://pandas.pydata.org/) 
 - [plotly](https://plotly.com/python/getting-started/)
   - [Plotly Express in Python](https://plotly.com/python/plotly-express/)
+    - [Tutorial](https://www.youtube.com/watch?v=1-6ndLqsy6M)
+
 - [Matplotlib](https://matplotlib.org/)
 
 ### Troubleshooting
