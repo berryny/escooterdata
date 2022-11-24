@@ -1,7 +1,9 @@
 # Understand NYC 311 Dataset for E-Scooter Pilot Program
 
-## 311 Service Requests from 2010 to PresentSocial Services
-### Data Provided by 311, DoITT
+## 311 Service Requests from 2010 to Present Social Services
+
+- Data Provided by 311, DoITT
+- Project Code by [Judi Desire](https://www.linkedin.com/in/jdesire/)
 
 Parsing The Bronx e-scooter 311 complaints from 2021 - present to understand how best to improve the project's outcome by addressing community members concerns.
 
